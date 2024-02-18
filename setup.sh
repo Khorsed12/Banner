@@ -21,7 +21,7 @@ rm /data/data/com.termux/files/usr/etc/motd
 mv bash.bashrc /data/data/com.termux/files/usr/etc
 mv lib /data/data/com.termux/files/usr/etc
 cd ..
-rm -rf BannerX
+rm -rf Banner
 echo
 clear
 echo
